@@ -242,50 +242,26 @@
           {
             "group": "Application APIs",
             "description": "APIs for managing application aspects of Autorply",
-            "includeTags": [
-              "Agents",
-              "Automation Rule",
-              "Account AgentBots",
-              "Canned Responses",
-              "Contact Labels",
-              "Contacts",
-              "Conversation Assignments",
-              "Conversation Labels",
-              "Conversations",
-              "Custom Attributes",
-              "Custom Filters",
-              "Help Center",
-              "Inboxes",
-              "Integrations",
-              "Messages",
-              "Profile",
-              "Reports",
-              "Teams",
-              "Webhooks"
-            ],
-            "openapi": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/swagger/tag_groups/application_swagger.json"
+            "includeTags": ["Agents", "Automation Rule", "Account AgentBots", "Canned Responses", "Contact Labels", "Contacts", "Conversation Assignments", "Conversation Labels", "Conversations", "Custom Attributes", "Custom Filters", "Help Center", "Inboxes", "Integrations", "Messages", "Profile", "Reports", "Teams", "Webhooks"],
+            "openapi": "/openapi/application_swagger.json"
           },
           {
             "group": "Platform APIs",
             "description": "APIs for managing platform aspects of Autorply",
             "includeTags": ["Accounts", "Account Users", "AgentBots", "Users"],
-            "openapi": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/swagger/tag_groups/platform_swagger.json"
+            "openapi": "/openapi/platform_swagger.json"
           },
           {
             "group": "Client APIs",
             "description": "APIs for client applications",
-            "includeTags": [
-              "Contacts API",
-              "Conversations API",
-              "Messages API"
-            ],
-            "openapi": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/swagger/tag_groups/client_swagger.json"
+            "includeTags": ["Contacts API", "Conversations API", "Messages API"],
+            "openapi": "/openapi/client_swagger.json"
           },
           {
             "group": "Other APIs",
             "description": "Additional Autorply APIs",
             "includeTags": ["CSAT Survey Page"],
-            "openapi": "https://raw.githubusercontent.com/chatwoot/chatwoot/develop/swagger/tag_groups/other_swagger.json"
+            "openapi": "/openapi/other_swagger.json"
           }
         ]
       }
