@@ -1,6 +1,6 @@
-## Chatwoot Developer Documentation
+## Autorply Developer Documentation
 
-This is the official repository for the Chatwoot developer documentation. This guide contains everything you need to know about Chatwoot APIs and build custom flows on top of Chatwoot APIs.
+This is the official repository for the Autorply developer documentation. This guide contains everything you need to know about Autorply APIs and build custom flows on top of Autorply APIs.
 
 ### 👩‍💻 Development
 
